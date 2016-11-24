@@ -19,7 +19,7 @@ public class SampleController {
 		
 		SampleServiceImp sampleServiceImp = new SampleServiceImp();
 		model.addAttribute("result", sampleServiceImp.selectDataResult(keyString));
-
+1111
 		return "home";
 	}
 	
