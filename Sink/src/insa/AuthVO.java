@@ -7,7 +7,7 @@ public class AuthVO
   private String Emplyr_Id;
   private String Ip_addr;
 
-  public AuthVO()
+  public AuthVO()asdfasdf
   {
   }
 
